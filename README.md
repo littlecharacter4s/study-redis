@@ -1,6 +1,6 @@
 # study-redis
 
-Redis学习：使用[jedis客户端](https://redis.io/clients#java)
+Redis学习：使用[Jedis客户端](https://redis.io/clients#java)
 
 1. 各种数据结构的基本操作
     - 时间原因，之给出strings的简单操作，后续有时间逐渐补齐
